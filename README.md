@@ -38,7 +38,7 @@ RECEIVER_CHANNEL_ID=[target telegram channel] @smartcontractmonitoring
 TIME_INTERVAL=4 # in hours
 ```
 
-> This service can operate with PostgreSQL database!
+> This service can only operate with PostgreSQL database!
 
 4. Run service
 
